@@ -1,0 +1,64 @@
+## 1. APLICAÇÃO WEB PARA PREVER O CONSUMO DE ENERGIA
+
+Badge em Desenvolvimento:
+
+
+
+
+ Ter a capacidade de prever o consumo energia pode ser uma medida que pode ajudar bastante a manter o controle de consumos futuros, de modo que seja possível ter um consumo mais recionalizados no consumo da energia elétrica.
+
+ ![alt text](image.png)
+
+* [Badges](#badges)
+    * Python
+    * STREAMLIT
+    * VSCODE
+
+
+
+* [Descrição do Projeto](#descrição-do-projeto)
+
+![alt text](image-1.png)
+
+
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+
+ :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Funcionalidade 2`: descrição da funcionalidade 2
+- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
+- `Funcionalidade 3`: descrição da funcionalidade 3
+
+
+
+* [Acesso ao Projeto](#acesso-ao-projeto)
+```
+Criar Ambiente Virtual: virtualenv live
+Ativar o Ambiente Virtual: live\Scripts\activate
+
+```
+
+```
+Comando para ter o arquivo requirements: pip install freeze > requirements.txt
+
+```
+
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+```
+* Python
+* Streamlit
+```
+* [Licença](#licença)
+```
+Versão.0.1
+```
+* [Conclusão](#conclusão)
+```
+Esse projeto foi fruto de uma Live aonde falei sobre Seriés temporias aplicação de modelo para analisar dados sobre consumo de eneergias para prever a quantidade de consumo de energia como uma medida que prever evento sazonais que podem impactar na distribuição da energia elétrica. 
+```
+
+
+# Autor:
+Laurindo Dumba
